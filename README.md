@@ -2,6 +2,9 @@
 
 Odin Battleship is a web-based implementation of the classic game Battleship, developed as part of The Odin Project curriculum. This project demonstrates the use of JavaScript, HTML, and CSS to create an interactive game that can be played in the browser.
 
+## Try it yourself!
+https://lorenzo-battleship.netlify.app/
+
 ## Features
 
 - **Ship Placement**: Players can place their ships on the board at the start of the game. Ships can be rotated and positioned according to player preference.
